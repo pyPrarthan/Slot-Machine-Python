@@ -54,7 +54,7 @@ The game keeps track of your balance, and you can keep playing until you decide 
 
 ## 👨‍💻 Author
 
-- **Prarthan Christian** - [GitHub](https://github.com/pchristian3)
+- **Prarthan Christian** - [GitHub](https://github.com/pyPrarthan)
 
 
 
